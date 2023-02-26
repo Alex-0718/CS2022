@@ -1,0 +1,1 @@
+FLAG = b'FLAG{DH_fake_flag_for_myself!!!}'

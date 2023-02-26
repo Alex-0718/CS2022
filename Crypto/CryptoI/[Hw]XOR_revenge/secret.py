@@ -1,0 +1,1 @@
+FLAG = b'FLAG{I_dont_know_how_to_get_this_flag_QQQ}'

@@ -1,0 +1,1 @@
+FLAG = b'FLAG{dlog_for_myself}'

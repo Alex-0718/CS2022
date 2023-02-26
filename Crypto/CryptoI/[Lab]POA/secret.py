@@ -1,0 +1,1 @@
+FLAG = b'FLAG{Just_test_for_myself_hahaddddd}'
